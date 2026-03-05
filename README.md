@@ -120,5 +120,3 @@ The best-performing model is selected based on **highest R² score and lowest er
 - XGBoost
 
 ---
-
-## Project Structure

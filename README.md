@@ -1,3 +1,7 @@
+
+
+<img width="225" height="225" alt="image" src="https://github.com/user-attachments/assets/2f5811ce-e1fb-4b65-9998-43b2e3ce5ce1" />
+
 # Amazon Sales Revenue Prediction & Analysis
 
 A complete Data Analysis and Machine Learning project that analyzes Amazon sales data and predicts total revenue using multiple regression models.
